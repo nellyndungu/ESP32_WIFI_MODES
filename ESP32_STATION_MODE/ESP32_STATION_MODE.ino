@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // Network Credentials
-const char* ssid = "NELLAN";
-const char* password = "index254";
+const char* ssid = "ssid";
+const char* password = "password";
 
 // Connection-check time interval (3 seconds)
 unsigned long start = 0;
