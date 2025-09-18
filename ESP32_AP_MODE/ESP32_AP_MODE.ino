@@ -5,8 +5,8 @@
 #include "esp_wifi.h"
 
 // Set network credentials
-const char* ssid = "ESP32_AP";
-const char* password = "@2025";
+const char* ssid = "ssid";
+const char* password = "password";
 
 void setup(){
   Serial.begin(115200);
