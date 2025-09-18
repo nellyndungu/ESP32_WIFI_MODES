@@ -7,12 +7,12 @@
 
 // Network configurations
 // Station mode (Router) Credentials
-const char* STA_ssid = "NNW";
-const char* STA_password = "nnw@88866";
+const char* STA_ssid = "ssid";
+const char* STA_password = "password";
 
 // Access point (ESP) credentials
-const char* AP_ssid = "ESP32_AP";
-const char* AP_password = "index@2025";
+const char* AP_ssid = "ssid";
+const char* AP_password = "password";
 
 // Station mode connection-check interval (3 seconds)
 unsigned long start = 0;
